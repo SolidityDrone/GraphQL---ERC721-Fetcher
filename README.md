@@ -1,3 +1,7 @@
+
+# How to run
+ Just npm install to install the dependencies from package.json and follow the instruction on TheGraph docs to create a subgraph and deploy
+
 # Disclaimer 
  This repo is not a complete work, if you ever use this fetcher you will need like 10 years to sync on polygon network. You can use that code to assemble a wider api tho.
 
